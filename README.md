@@ -6,6 +6,7 @@ HazeRemoval Algorithm
 ##Requirement
 
 caffe
+
 opencv2
 
 
